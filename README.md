@@ -25,9 +25,6 @@
 ###
 [![Contributions](https://fabianocouto-activity-graph.vercel.app/graph/?username=HoangPhu0705&theme=react-dark)](https://github.com/HoangPhu0705)
 
-<div align="center">
-  <image src="cat.gif">
-</div>
 
 
 ## ![](https://komarev.com/ghpvc/?username=HoangPhu0705&color=238dd9&style=flat&label=VIEWS)
